@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/diyansh007/diyansh007/output/pacman-contribution-graph-dark.svg">
   
@@ -23,4 +23,14 @@ Here are some ideas to get you started:
   
   <img alt="pacman contribution graph"
     src="https://raw.githubusercontent.com/diyansh007/diyansh007/output/pacman-contribution-graph.svg">
+</picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/diyansh007/diyansh007/output/github-contribution-grid-snake-dark.svg">
+  
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/diyansh007/diyansh007/output/github-contribution-grid-snake.svg">
+  
+  <img alt="snake eating contributions" 
+    src="https://raw.githubusercontent.com/diyansh007/diyansh007/output/github-contribution-grid-snake.svg">
 </picture>
