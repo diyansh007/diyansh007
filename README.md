@@ -95,9 +95,33 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="mailto:diyanshwas07@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Diyansh's Email"/></a></p>
+
+<p align="center">
+
+  <a href="mailto:diyanshwas07@gmail.com">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png"
+         width="80"
+         style="margin:15px; padding:15px; border-radius:20px; background:#0d1117; box-shadow:0 0 25px #ff4b5c;" />
+  </a>
+
+  <a href="https://instagram.com/diyaansh_">
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png"
+         width="80"
+         style="margin:15px; padding:15px; border-radius:20px; background:#0d1117; box-shadow:0 0 25px #E4405F;" />
+  </a>
+
+  <a href="https://discord.com/users/diyansh7">
+    <img src="https://img.icons8.com/fluency/96/discord-logo.png"
+         width="80"
+         style="margin:15px; padding:15px; border-radius:20px; background:#0d1117; box-shadow:0 0 25px #5865F2;" />
+  </a>
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Let's+Connect+🚀;Open+to+Collabs;Building+Cool+Stuff+🔥" />
+</p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
-
